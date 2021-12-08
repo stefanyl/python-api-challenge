@@ -1,4 +1,4 @@
-,City,Lat,Lng,Max Temp,Humidity,Clouds,Wind Speed,Country,Date
+,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
 0,Yulara,-25.2406,130.9889,89.44,20,0,16.11,AU,1638933398
 1,Kasimov,54.9411,41.3953,34.56,100,100,8.93,RU,1638933399
 2,Hasaki,35.7333,140.8333,50.4,85,100,39.44,JP,1638933400
